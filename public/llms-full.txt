@@ -2,13 +2,13 @@
 
 A mobile electric bicycle technician service operating in the central region of Israel, offering convenient at-home repair and maintenance for electric bikes. The business brings professional technical expertise directly to the customer's doorstep, eliminating the need to transport the bike to a shop. The service caters to the growing community of e-bike owners who value convenience and fast turnaround.
 
-Source: https://example.com
+Source: https://libero-bike.zappy5.app
 
 ---
 
 ## תיקון אופניים חשמליים עד הבית — Libero Bike
 
-URL: https://example.com
+URL: https://libero-bike.zappy5.app
 Description: A mobile electric bicycle technician service operating in the central region of Israel, offering convenient at-home repair and maintenance for electric bikes. T
 
 תיקון אופניים חשמליים עד הבית — Libero Bike
@@ -790,7 +790,7 @@ E-Bike
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://libero-bike.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1041,7 +1041,7 @@ Libero Bike ("החברה", "אנו", "שלנו") מחויבת להגן על פר
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://libero-bike.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1301,7 +1301,7 @@ Libero Bike מחויבת להנגיש את השירותים לכלל הציבו�
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://libero-bike.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
