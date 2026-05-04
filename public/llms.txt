@@ -1,4 +1,6 @@
-# Business — Generative Engine Optimization Map
+# Libero Bike — Generative Engine Optimization Map
+
+> A mobile electric bicycle technician service operating in the central region of Israel, offering convenient at-home repair and maintenance for electric bikes. The business brings professional technical expertise directly to the customer's doorstep, eliminating the need to transport the bike to a shop. The service caters to the growing community of e-bike owners who value convenience and fast turnaround.
 
 ---
 
@@ -24,12 +26,40 @@ Information about WCAG compliance and accessibility features.
 
 ---
 
-# Business Context (for LLM understanding)
+## How to Contact Us
 
-## About Business
+- Phone: +972506724170
+- Phone (tel): tel:+972506724170
+
+### Contact form
+- URL: https://example.com
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
 ---
 
-# Additional Resources
+# Business Context (for LLM understanding)
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+## About Libero Bike
+A mobile electric bicycle technician service operating in the central region of Israel, offering convenient at-home repair and maintenance for electric bikes. The business brings professional technical expertise directly to the customer's doorstep, eliminating the need to transport the bike to a shop. The service caters to the growing community of e-bike owners who value convenience and fast turnaround.
+
+## Target Audience
+בעלי אופניים חשמליים באזור המרכז
+
+## Industry
+תיקון ותחזוקת אופניים חשמליים
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
